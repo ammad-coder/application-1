@@ -1,0 +1,25 @@
+<p>[Your Name]</p><br>
+<p>[Street Address]</p><br>
+<p>[City, St Zip]</p><br>
+<p>[Optional – Email Address]</p><br>
+[Today’s Date]
+[Name of Recipient]<br>
+[Title]<br>
+[Company]<br>
+[Address]<br>
+[City, St Zip]<br>
+Dear [Name of Recipient],
+[Introduce yourself and what job you would like to be considered for. Try to personalize the
+introduction if possible by including details about past encounters with the recipient or details
+about third parties who may be referring you to the job. Make it interesting so the reader will
+continue reading. See the Cover Letter Template page for more tips.]
+[Discuss 3 or 4 characteristics or traits that set you apart. Provide stories, facts and details which
+demonstrate these traits in the work place. Consider using formatting such as bullets, bold and
+italics to draw attention to important information.]
+[Close by wrapping it all up and calling the reader to action. Ask them for an interview or a
+response]
+Sincerely (or Respectfully Yours),
+[Sign here for letters sent by mail or fax]
+
+[Typed Name]
+Enclosure
